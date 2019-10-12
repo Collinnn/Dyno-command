@@ -1,0 +1,2 @@
+{delete}
+<https://en.wikipedia.org/wiki/$1+>
